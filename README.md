@@ -13,7 +13,7 @@ ffmpeg -re -i /home/lighthouse/bilibili/movies/test1.mp4 -preset ultrafast -vcod
 
 
 腾讯云IP：101.42.42.254
-腾讯云轻量服务器密码：CjS@15035806407
+
 
 
 wget --no-check-certificate https://www.johnvansickle.com/ffmpeg/old-releases/ffmpeg-4.4.1-i686-static.tar.xz
