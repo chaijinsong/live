@@ -2,7 +2,7 @@ from moviepy.editor import *
 from PIL import Image, ImageDraw, ImageFont
 import os
 import numpy as np
-from util import parse_lrc_file, get_current_text
+from gen_video.util import parse_lrc_file, get_current_text
 # 设置要使用的字体
 
 font_path = "./static/fonts/msyh.ttc"
